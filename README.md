@@ -17,7 +17,7 @@ After SFAPs for participants are simulated, move back to the main folder and use
 ## References:
 1. [Fuglevand, AJ et al., J Neurophysiol, 1993 Dec;70(6):2470-88.](https://pubmed.ncbi.nlm.nih.gov/8120594/)
 1. [Farina, D & Merletti, R., IEEE Trans Biomed Eng, 2001 Jun;48(6):637-46.](https://pubmed.ncbi.nlm.nih.gov/11396594/)
-1. [Petersen, E & Rostalski P., Front Physiol, 2019 Mar 8;10:176.](Petersen, E & Rostalski P., Front Physiol, 2019 Mar 8;10:176.)
+1. [Petersen, E & Rostalski P., Front Physiol, 2019 Mar 8;10:176.](https://pubmed.ncbi.nlm.nih.gov/30906263/)
 
 
 ## Contact:
