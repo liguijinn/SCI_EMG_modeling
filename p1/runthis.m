@@ -10,7 +10,14 @@ and run segments in parallel.
 
 * If running on a cluster, specify this file to be executed.
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 

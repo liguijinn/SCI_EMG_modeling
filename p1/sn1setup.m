@@ -6,7 +6,14 @@ MUPool - 1 - Setup
 
 Setup locations for all fibers in all MUs
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 

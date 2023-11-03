@@ -9,7 +9,14 @@ Center: xc,yc,zc
 MU_fiberNum: number of fibers in the territory
 MU_Rxy: radius in xy plane (muscle cross section)
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 

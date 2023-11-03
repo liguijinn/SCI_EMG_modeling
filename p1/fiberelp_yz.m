@@ -9,7 +9,14 @@ y = loc in y direction
 output:
 loc of each fiber in the MU in z direction
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 

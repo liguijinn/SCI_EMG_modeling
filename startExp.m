@@ -10,7 +10,14 @@ Specify varying parameters
     alphaExcD:  0.1:0.1:1, UMN_lev, remaining UMN function level
     FBL:        0.1:0.1:1, MF_lev, % of remaining muscle fibers within each MU
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 

@@ -18,7 +18,14 @@ LMNidx = LMN # to be included, only read if LMNrem is empty
 LMNrem = remaining LMNs, specify which LMNs are left with different levels
 of remaining LMN function
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 

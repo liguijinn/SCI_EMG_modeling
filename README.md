@@ -25,3 +25,9 @@ After SFAPs for participants are simulated, move back to the main folder and use
 Guijin Li: guijin.li@mail.utoronto.ca
 
 José Zariffa: jose.zariffa@utoronto.ca 
+
+Adaptive Neurorehabilitations Systems Lab
+
+KITE Research Institute, Toronto Rehabilitation Institute
+
+Institute of Biomedical Engineering, University of Toronto

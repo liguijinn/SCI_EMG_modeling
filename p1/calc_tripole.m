@@ -10,7 +10,14 @@ a/b = abs(I3/I2);
 Impulse amplitudes: I1 = 24.6, I2 = -35.4, I3 = 10.8 (A/m^2)
 a = 2.1, b = 6.9 (mm) for 9mm --> 1.6 and 5.4 (mm) for 7mm (same ratio)
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 

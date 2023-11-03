@@ -3,7 +3,14 @@ function check_MUxyz(nMU,MUc_xyz,pool_RxyB,SMU,cPath,op_MU)
 
 Remove muscle fibers outside of the territory of a given MU
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 

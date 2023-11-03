@@ -4,7 +4,14 @@ function H_vc = calc_Hvc(kx,kz,y0,d,h1)
 
 Transfer function for volume conduction with given specifications
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 

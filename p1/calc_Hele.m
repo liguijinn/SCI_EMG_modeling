@@ -7,7 +7,14 @@ Transfer function for specific electrode configuration
 Shown here: 2x1 bipolar electrode (Delsys Bagnoli)
 Modifiable to other configurations
 
-Project: SCI EMG modeling (Li et al.)
+Project: SCI EMG modeling
+
+Author: Guijin Li
+Date: Oct 31st, 2023
+
+Adaptive Neurorehabilitations Systems Lab
+KITE Research Institute, Toronto Rehabilitation Institute
+Institute of Biomedical Engineering, University of Toronto
 
 %}
 
